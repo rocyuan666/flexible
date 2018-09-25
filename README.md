@@ -11,5 +11,5 @@
 `<script src="flexible/flexible_css.js"></script>`  
   
   
-####移动端适配
+#### 移动端适配  
 `<meta name="viewport" content="width=width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0">`
