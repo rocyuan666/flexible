@@ -13,3 +13,8 @@
   
 #### 移动端适配  
 `<meta name="viewport" content="width=width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0">`
+
+#### rem配置
+`html {font-size: 62.5%;/*10 ÷ 16 × 100% = 62.5%*/}`
+`body {font-size: 1.4rem;/*1.4 × 10px = 14px */}`
+`h1 { font-size: 2.4rem;/*2.4 × 10px = 24px*/}`
